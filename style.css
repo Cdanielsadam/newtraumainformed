@@ -23,3 +23,25 @@ header, footer {
     font-size: 0.9em;
     color: #555;
 }
+
+#chat-section {
+    margin-top: 30px;
+}
+
+#chatbox {
+    background: #ffffff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    height: 200px;
+    overflow-y: auto;
+    margin-bottom: 10px;
+}
+
+#userInput {
+    width: 70%;
+    padding: 8px;
+}
+
+button {
+    padding: 8px 16px;
+}
